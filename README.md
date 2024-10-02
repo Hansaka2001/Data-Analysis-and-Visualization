@@ -1,13 +1,13 @@
-# Data Visualization with Matplotlib and Pandas
+# Data Visualizationand Analysis with Matplotlib and Pandas
 
-This project demonstrates various data visualization techniques using Matplotlib,Pandas and Seaborn in Jupyter Notebooks. It was created to improve my knowledge and skills in data analysis and visualization.
+This project demonstrates various data visualization and analysis techniques using Matplotlib,Pandas,Seaborn and Numpy in Jupyter Notebooks. It was created to improve my knowledge and skills in data analysis and visualization.
 
 ## Setup
 
 1. Ensure you have Python 3.7+ installed on your system.
 2. Install required libraries:
    ```
-   pip install jupyter pandas matplotlib seaborn
+   pip install jupyter pandas matplotlib seaborn numpy
    ```
 3. Clone this repository:
    ```
